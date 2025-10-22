@@ -24,7 +24,7 @@ uwuify
 opencv-python-headless
 pymediainfo
 
-# --- MongoDB (Fixed for Python 3.13) ---
+# --- MongoDB (Python 3.13 compatible) ---
 pymongo>=4.8.0
 motor>=3.6.0
 
